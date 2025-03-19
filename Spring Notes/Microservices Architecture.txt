@@ -1,0 +1,43 @@
+Microservices Architecture
+Microservices architecture is a software development approach where an application is broken down into multiple independent services. Each service handles a distinct business function and communicates with others through well-defined APIs.
+
+Core Principles:
+Single Responsibility – Each service focuses on a specific task.
+Independence – Services operate autonomously.
+Loose Coupling – Minimal dependencies between services.
+Resilience – Built-in fault tolerance mechanisms.
+Autonomous Data Management – Each service manages its own data independently.
+Benefits:
+Highly Scalable – Individual components can scale separately.
+Resilient to Failures – System remains operational even if one service fails.
+Technology Agnostic – Different services can be built with different technologies.
+Faster Development – Teams can work on separate services simultaneously.
+✔ Easier Maintenance – Updates can be deployed to individual services without affecting others.
+✔ Flexible Deployment – Supports containerization and cloud-native development.
+
+Ideal Scenarios for Use:
+Large-scale applications with complex functionality.
+Organizations where multiple teams manage different modules.
+Systems requiring integration with numerous third-party services.
+Applications that demand high availability and failure resilience.
+
+Challenges to Consider:
+ Increased Complexity – Managing multiple services introduces additional dependencies.
+ Network Overhead – More API calls can lead to higher latency.
+ Data Consistency Issues – Synchronizing distributed transactions is difficult.
+ Security Risks – Multiple endpoints create a larger attack surface.
+
+Example - 
+ -----------------                    -----------------
+|               |                    |               |
+| Service A     | <----------------->| Service B     |   [ Each service is an 
+|               |                    |               |     independent module ]
+ -----------------                    -----------------
+             \                        /
+              \                      /
+               \                    / (REST APIs)
+                \________________  /
+                |                |
+                | Service C      |
+                |                |
+                ------------------

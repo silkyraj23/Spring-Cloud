@@ -1,0 +1,26 @@
+Monolithic Architecture
+A monolithic architecture is a software design pattern where the entire application is developed as a single, unified unit.
+
+Key Characteristics:
+Single Codebase – The whole application is built using one code repository.
+Unified Deployment – The complete application is packaged and deployed together.
+Tightly Coupled Components – All modules are interconnected, making modifications challenging.
+Shared Resources – The system uses a single database and memory space.
+Simplified Development & Deployment – Easier to develop, test, and deploy compared to distributed architectures.
+
+
+Advantages:
+Simplified Development – Suitable for small-scale applications.
+Easy Deployment – No complex service orchestration is needed.
+Centralized Data Handling – One database manages all data, reducing inconsistencies.
+
+Disadvantages:
+Scalability Issues – Difficult to scale specific modules independently.
+High Maintenance Complexity – A minor change in one part may affect the entire system.
+Technology Constraints – Introducing new technologies often requires major refactoring.
+Deployment Challenges – Larger applications become difficult to manage and deploy.
+
+Ideal Use Cases:
+ Small-scale applications.
+ Rapid development and prototyping.
+ Teams with fewer developers.
