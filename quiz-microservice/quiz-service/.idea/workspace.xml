@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeed3e2b-c14d-4384-aaf7-79ff6bcb885a" name="Changes" comment="" />
+    <list default="true" id="5eca6f0a-17fe-443f-8e23-8e2176863e83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +13,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="2ugtImWZPJjBt6KMZYnPvQ3tfoz" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ugjDwvHQamUyg2hLrYkSgKoxCj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,17 +36,44 @@
   "keyToString": {
     "Application.QuizServiceApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Shamiksha/Desktop/micro/quiz-service/quiz-service/src/main/java/com/learning"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shamiksha\Desktop\micro\quiz-service\quiz-service\src\main\java\com\learning" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="QuizServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.QuizServiceApplication" />
+      <module name="quiz-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuizServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aeed3e2b-c14d-4384-aaf7-79ff6bcb885a" name="Changes" comment="" />
-      <created>1742681967863</created>
+      <changelist id="5eca6f0a-17fe-443f-8e23-8e2176863e83" name="Changes" comment="" />
+      <created>1742676995922</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742681967863</updated>
+      <updated>1742676995922</updated>
     </task>
     <servers />
   </component>

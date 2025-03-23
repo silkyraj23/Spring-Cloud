@@ -4,16 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bdbcef7-b0ca-43d5-93be-d2a08f50ec0b" name="Changes" comment="" />
+    <list default="true" id="2e985e6e-132d-4dcf-b68b-5af65ba9d222" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2ugnOxGwPcFdaSbwYUB4pRtWspB" />
+  <component name="ProjectId" id="2uhBBLvFuaHa1XzpHz6avjfjPtU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,11 +36,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2bdbcef7-b0ca-43d5-93be-d2a08f50ec0b" name="Changes" comment="" />
-      <created>1742679056539</created>
+      <changelist id="2e985e6e-132d-4dcf-b68b-5af65ba9d222" name="Changes" comment="" />
+      <created>1742690788793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742679056539</updated>
+      <updated>1742690788793</updated>
     </task>
     <servers />
   </component>
